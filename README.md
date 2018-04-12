@@ -1,4 +1,4 @@
-# -security-tools
+# security-tools
 
 WebGoat漏洞练习平台：
 
